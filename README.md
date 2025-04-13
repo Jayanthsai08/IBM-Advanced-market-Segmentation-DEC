@@ -1,6 +1,6 @@
 # 🚀 Advanced Customer Segmentation Tool
 
-ONLine: https://jayant-chand-ibm-project-market-segmentation-dec-app-1vjdcn.streamlit.app/
+Online Demo: https://jayant-chand-ibm-project-market-segmentation-dec-app-1vjdcn.streamlit.app/
 
 ## 📌 Overview
 This Streamlit-based web application allows users to perform **customer segmentation** using an advanced clustering approach that integrates **Deep Embedded Clustering (DEC) with K-Means. The app provides an interactive interface for data preprocessing, PCA-based dimensionality reduction, autoencoder training, and cluster visualization.
@@ -57,5 +57,5 @@ This project is licensed under the MIT License.
 Pull requests are welcome! For major changes, please open an issue first to discuss your proposed changes.
 
 ---
-🔗 **Developed by: Jayant Chand and Team | ✉️ Contact: jayantchand2379@gmail.com
+🔗 **Developed by: Jayanth sai and Team | ✉️ Contact: jayanthsaichethan@gmail.com
 
